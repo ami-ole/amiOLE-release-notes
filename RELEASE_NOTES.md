@@ -2,7 +2,7 @@
 
 ---
 
-## Version 1.0.701 · 13 June 2026
+## Version 1.0.702 · 13 June 2026
 
 ### What's New
 
